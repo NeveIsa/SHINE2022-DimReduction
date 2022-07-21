@@ -1,0 +1,4 @@
+sklearn
+umap-learn
+pacmap
+trimap
